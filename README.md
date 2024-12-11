@@ -18,14 +18,13 @@
 
 ## 💼 Expertise
 
-- **Cloud Platforms**: AWS, Azure
-- **Cloud Infrastructure**: EC2, S3, Lambda (AWS), Azure VMs
+- **IT Practices**: Best practices in IT management, governance, and project execution
+- **Cloud Platforms**: AWS, Azure, Private Cloud, Local Cloud
 - **Cloud Operations (CloudOps)**: Managing and optimizing cloud infrastructure for performance, scalability, and cost efficiency
 - **Infrastructure Operations (InfraOps)**: Overseeing infrastructure management, deployment, and monitoring for seamless operations
 - **Application Management**: Deployment, monitoring, and scaling of cloud-native applications, ensuring high availability, and performance optimization
-- **Automation Tools**: Terraform, Ansible, CI/CD concepts, **PowerShell**
 - **CRM (Customer Relationship Management)**: Implementing cloud-based solutions to enhance customer engagement and support
-- **IT Practices**: Best practices in IT management, governance, and project execution
+- **Automation Tools**: Terraform, Ansible, CI/CD concepts, PowerShell
 - **Learning**: AI concepts, DevOps, Kubernetes, Docker, and AI applications in cloud automation
 
 ---
